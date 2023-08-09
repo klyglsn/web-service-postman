@@ -5,7 +5,7 @@
 
 [Postman Dosyası Indir](Cargo_API.postman_collection.json)
 
-Repo içerisinde bulunan "Cargo_API.postman_collection.json" dosyasını indirin ve Aşağıda ki yönergeleri takip edin.
+"Cargo_API.postman_collection.json" dosyasını indirin ve Aşağıda ki yönergeleri takip edin.
 
 
 * Postman Açın
