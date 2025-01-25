@@ -1,4 +1,4 @@
-# Sendeo Kargo API
+# Kolay Gelsin Kargo API
 ## Postman Collection
 
 ### Import
@@ -6,7 +6,6 @@
 [Postman Dosyası Indir](Cargo_API.postman_collection.json)
 
 "Cargo_API.postman_collection.json" dosyasını indirin ve Aşağıda ki yönergeleri takip edin.
-
 
 * Postman Açın
 ![](Screenshot_1.png)
@@ -22,6 +21,3 @@
 
 * Collections bölümüne Cargo API eklenmiş olacak. Kendi bilgilerinizi kullanarak bu Endpoint leri kullanabilirsiniz.
 ![](Screenshot_5.png)
-
-
-
